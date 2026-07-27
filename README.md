@@ -223,12 +223,192 @@ I build enterprise-grade mobile applications that survive contact with millions 
 
 
 ## 💼 Featured Projects
+## 💼 Featured Projects
 
-**Lingo by Abbott** | Real-time continuous glucose monitoring app needed a modular, high-reliability SwiftUI codebase to ship health features fast without breaking clinical trust. Led iOS architecture, built reusable Clean Architecture modules, and automated releases with Jenkins + Fastlane + GitHub Actions. Result: faster feature velocity with zero compromise on crash-free sessions. | `Swift` `SwiftUI` `Combine` `GitHub Actions` `Fastlane`
+<table width="100%">
 
-**Hekma Open Square** | A healthcare marketplace connecting patients, hospitals, and clinical trial sponsors needed a scalable cross-platform foundation. Designed a modular Flutter architecture with Clean Architecture separation for long-term maintainability. Result: a production-ready platform supporting secure, data-driven patient recruitment workflows. | `Flutter` `Dart` `Clean Architecture` `Firebase`
+<tr>
 
-**myVisionTrack (Genentech)** | Remote clinical vision testing needed to work reliably outside hospital networks. Built an offline-first architecture with automatic sync and integrated Apple Watch HealthKit for continuous patient monitoring. Result: clinicians gained remote diagnostic capability without sacrificing data integrity. | `SwiftUI` `HealthKit` `CoreData` `MVVM`
+<td width="50%" valign="top">
+
+<h3 align="center">🩺 Lingo by Abbott</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdmusu4u/mdmusu4u/main/raw/main/apps/lingo.png" width="300" height="200" alt="Lingo by Abbott">
+</p>
+
+<div align="left">
+
+AI-powered continuous glucose monitoring application helping users understand how nutrition, exercise, sleep, and stress affect glucose levels.
+
+**Tech Stack**
+
+📱 Swift • SwiftUI • UIKit  
+🏗️ MVVM + Clean Architecture  
+🔐 HealthKit Integration  
+☁️ REST APIs  
+🚀 Production App Store Release  
+
+<a href="https://apps.apple.com/us/app/lingo-by-abbott/id1670445335">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=app-store&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🛒 Hekma Open Square</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdmusu4u/mdmusu4u/main/raw/main/apps/hekma.png" width="300" height="200" alt="Hekma Open Square">
+</p>
+
+<div align="left">
+
+Modern shopping platform delivering secure payments, personalised recommendations, and real-time inventory management.
+
+**Tech Stack**
+
+📱 Flutter  
+🏗️ Clean Architecture  
+☁️ Firebase  
+💳 Apple Pay  
+🚀 Production Release  
+
+<a href="#">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=app-store&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">👁️ myVisionTrack</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdmusu4u/mdmusu4u/main/raw/main/apps/genentech.png" width="300" height="200" alt="myVisionTrack">
+</p>
+
+<div align="left">
+
+Digital vision monitoring application enabling patients to perform clinically validated eye assessments from home.
+
+**Tech Stack**
+
+📱 Swift • UIKit  
+🏗️ MVVM Architecture  
+🔒 HIPAA Compliance  
+📊 Clinical Analytics  
+🚀 Production App Store Release  
+
+<a href="#">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=app-store&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">💼 Aybiz</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdmusu4u/mdmusu4u/main/raw/main/apps/aybiz.png" width="300" height="200" alt="Aybiz">
+</p>
+
+<div align="left">
+
+Business management platform supporting HR, payroll, attendance, and employee self-service solutions.
+
+**Tech Stack**
+
+📱 Flutter  
+🏗️ Clean Architecture  
+☁️ REST APIs  
+🔐 Secure Authentication  
+🚀 Production Release  
+
+<a href="#">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=app-store&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 Allstate Mobile</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdmusu4u/mdmusu4u/main/raw/main/apps/allstate.png" width="300" height="200" alt="Allstate Mobile">
+</p>
+
+<div align="left">
+
+Enterprise insurance application offering digital claims, policy management, roadside assistance, and customer services.
+
+**Tech Stack**
+
+📱 Swift • SwiftUI  
+🏗️ Clean Architecture  
+🔐 Face ID / Touch ID  
+☁️ REST APIs  
+🚀 Production Release  
+
+<a href="#">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=app-store&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📋 eVero Mobile</h3>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdmusu4u/mdmusu4u/main/raw/main/apps/evero.png" width="300" height="200" alt="eVero Mobile">
+</p>
+
+<div align="left">
+
+Healthcare workforce management application supporting scheduling, EVV, documentation, and regulatory compliance.
+
+**Tech Stack**
+
+📱 Swift • UIKit  
+🏗️ MVVM Architecture  
+📍 GPS & EVV  
+☁️ REST APIs  
+🚀 Enterprise Production  
+
+<a href="#">
+<img src="https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=app-store&logoColor=white">
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+</table>
+
 
 ---
 
